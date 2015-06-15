@@ -1,2 +1,2 @@
 # money-api-book-samples
-Samples of the money-api book
+Samples of the money-api books
